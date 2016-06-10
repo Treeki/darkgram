@@ -1,0 +1,9 @@
+Package: org.wuffs.darkgram
+Name: darkgram
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ninji
+Author: Ninji
+Section: Tweaks
